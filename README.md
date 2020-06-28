@@ -2,6 +2,8 @@
 
 This is a web application in python using streamlit ibrary, which performs Exploratory Data Analysis within seconds.
 
+Deployed this applicaton in heroku: Click here->https://autoedastreamlit.herokuapp.com
+
 # Streamlit: 
 It is an open-source app framework is the easiest way for data scientists and machine learning engineers to create beautiful, apps in only a few hours.
 
